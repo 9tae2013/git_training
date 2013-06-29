@@ -1,1 +1,2 @@
-feature1
+modified line1
+add line2
